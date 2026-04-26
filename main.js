@@ -2,7 +2,7 @@ const form = document.getElementById('form');
 const resultDiv = document.getElementById('result');
 const loadingDiv = document.getElementById('loading');
 const resultContent = document.getElementById('resultContent');
-const APP_URL = 'https://ai-taigai.vercel.app/';
+const APP_URL = 'https://ai-taigai-lfbul4lm1-kojiworkdesigns-projects.vercel.app/';
 
 form.addEventListener('submit', async function(e) {
   e.preventDefault();
